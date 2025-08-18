@@ -1,0 +1,1723 @@
+{
+  "name": "NGenPhunks",
+  "logo_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAFBlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAADw6FuzAAABCklEQVRIDe2Ruw0CMRAFuQKogDYohQagBpCIiSmBHggghAgiOoBmDo2lQSvrdGAfAQGWVuvvm33r0eg/fr4D40nTUiQ5j68Un4vOF8uW2B+uKVdDcmHXCF/aJoUQzqpAisacOwDieTHEh+Tto01CsT04Yc15tfh6eksCAJiTDcRXx/swB4gqbBZAFlDsgAdYX51Pr1A47gmwnUUgHlE1vY7Vd+0BooCi/xAQxXXRtVckbosU7Mu2qao9VNpVbQQCKIZgN4q8m1cBrBxYVwjVZdEfcFmAQn1ZB1WQPlAUZu764w+PTmyFTlxzZ7bZpaiGIBJDiBUPAuR2AQnARXQAqMpFhERA7iA64d4TQxNT1m+BU1sAAAAASUVORK5CYII=",
+  "banner_image": null,
+  "total_supply": 100,
+  "slug": "N Gen Phunks",
+  "description": "Ethscription-crafted digital artifacts",
+  "website_url": "https://etherphunks.eth.limo/dysto-phunks",
+  "twitter_url": "https://x.com/DystoLabz",
+  "discord_url": "https://discord.gg/dmDhXxj4bk",
+  "background_color": "#C3FF00",
+  "collection_items": [
+    {
+      "id": "",
+      "index": 10320,
+      "sha": "",
+      "name": "NGen Phunk #10320",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": ""
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cyber Brain"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0x1bdc861276bfe1f0909216c1e40899dc0280940ac7018d6e64e7061060355029",
+      "index": 10252,
+      "sha": "d79150239fbfe0da054df90862919f1f79a8db3ef62f2545445e6006d37391d2",
+      "name": "DystoPhunk #10252",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x0f49b6e478e031b6f1fb03374dcc5dcd682b14524cc0ffe30c4119f599cf0d1c",
+      "index": 10253,
+      "sha": "59954c879a76b319fc9a0db585099e865f6aeee98208c314e3a92a01f3248802",
+      "name": "DystoPhunk #10253",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gas Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xcb5f7a8fd91d524cc5997d6ba15746aeffe1116b0e062a5894a739046d993893",
+      "index": 10254,
+      "sha": "cbed9085aeb48bcb3c9853af439088da4acf8c01cc7c7bace55a374c16e57583",
+      "name": "DystoPhunk #10254",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Mohawk"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Metal Green Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xcbb576508e0b042d29a75bf1537a8b0db98c1b4165372f6bf58d18ae5dfa1738",
+      "index": 10255,
+      "sha": "de4bbfcf6e43c82cf8148b9ae40551e2b194d9d15c7d9866e6000a7d39d046a2",
+      "name": "DystoPhunk #10255",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Thin Mohawk Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Holo Lens"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0xd8f8d30696362e8f5047cb16d4d72f740ac1091b338f3bb74971c97e43bcfcae",
+      "index": 10256,
+      "sha": "5a435445c49f10b15ad9dcbcc2bef773a20e1e14f42fac83832c448d499b3a04",
+      "name": "DystoPhunk #10256",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bionic Eye Patch"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0x2e72ae240a2b73247dab4d624a0d492baec62aa8fb59624c3b59bbc7cdf7051b",
+      "index": 10257,
+      "sha": "7cce34033734824757d95f9a698d3f4e4145188b5791f101b1676ddd6086977f",
+      "name": "DystoPhunk #10257",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Shadow Hoodie"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0xbcdb8ae0804a62025c30a7b56da30b448900f4e3e7930540ba8785e615ebe3f6",
+      "index": 10258,
+      "sha": "3c995ea0d164f898daabd8c4b70c986c18f7193848036c3b1b461b29dc3d4ae2",
+      "name": "DystoPhunk #10258",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyclops Visor"
+        }
+      ]
+    },
+    {
+      "id": "0x0596074cc07975d4bdd6d6ea9e4558db95b69e628ec410329c6fafdac7432ba4",
+      "index": 10259,
+      "sha": "27930c32919374152d21f95aaac8d07962dae0d4e15c3f9ad3f43cbe2cc05da2",
+      "name": "DystoPhunk #10259",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cap"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wide Shades"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        }
+      ]
+    },
+    {
+      "id": "0xd691a191f50c523718012c31de36229d9f5596654629d18aac42ccee50bba390",
+      "index": 10260,
+      "sha": "8b8494ac815473cbb861ab8d61ee8e13cfe766ea06c3d4b278bebced81cd46d2",
+      "name": "DystoPhunk #10260",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Gaze"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x73594a81bb93f8a912c7173939eb417d09d64397c65f6074e322e8fd0a825fad",
+      "index": 10261,
+      "sha": "203c49ae4ef8d58a3c997819de0c95e9b9316acc0501afe729633a909f48b3fb",
+      "name": "DystoPhunk #10261",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Bandana"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vortex Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xf96462971b4123ae4b8e4895229cb4558037013e049d8538a251d6cc1a3f5e35",
+      "index": 10262,
+      "sha": "230e76c86a391d1fe1faa4aaa001ec47863a513ccc133a29d1d456c1923aa610",
+      "name": "DystoPhunk #10262",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Ape"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Knitted Cap"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gas Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x24a6677b99b089397e38b09e5d28908e81a872436919759930ed2e42c0901e04",
+      "index": 10263,
+      "sha": "1da26b91001fa176de48f3c26b11342d2467692ed6577e00413f6b46f8f3223b",
+      "name": "DystoPhunk #10263",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Brain With Flies"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0x0abf1f3eb026ef6044a068331c539c5176fdbca1610404585f8d87562e303b7a",
+      "index": 10264,
+      "sha": "b442411324c5d95c9afc1efd39c4f37bca26e47188b519afc6497a6f12722814",
+      "name": "DystoPhunk #10264",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Brain With Flies"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyclops Visor"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Void Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x75491652752c842b5877f168628681becb2072e9476dbc8416b1a9f7d7f0864b",
+      "index": 10265,
+      "sha": "42dbc673006b068568df6ea9282b6e033215c8304f33d7cc04930d22a36ff169",
+      "name": "DystoPhunk #10265",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bionic Eye Patch"
+        }
+      ]
+    },
+    {
+      "id": "0x360d93367f8b79c616d6958f90dcea045d058bee665f76957c8e45035ff1724a",
+      "index": 10266,
+      "sha": "dfcbbe4798c7db9ce4b6de76ab8b179a9151c0b3615707bd3bac237a7341535e",
+      "name": "DystoPhunk #10266",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Crazy Hair"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Holo Lens"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0x97905b1802228aba57f16a6db7c5d2f5348a5886134c6a914934fc3c6378f9c2",
+      "index": 10267,
+      "sha": "bc51973949865e0f2b5d2100cbbfa2dad62593af6160837c01861cfde559e67b",
+      "name": "DystoPhunk #10267",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Hyper Zoom Vr"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0x5121612d3d18f6daf822b97243122d9dfb90b86d14ea8a62ee49ef1183b76ed8",
+      "index": 10268,
+      "sha": "2ba29f0c355ffe947945885ad414b1d6d736f56d2f2e4033df3640d755663d9e",
+      "name": "DystoPhunk #10268",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Peak Spike"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vortex Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xf2bd44d699b85e05526935f7e50d4c189692101ff32c59acf9389d4fc2d004d6",
+      "index": 10269,
+      "sha": "544472fd3b56264e3469fa523da719eb8f28c610209e8755e0fe9c986d5f5a9b",
+      "name": "DystoPhunk #10269",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Bandana"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Holo Black Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x00d0c409e13a9f89bbb7b33572fa708803ac7501725d0ba43ca03b1a58dc35af",
+      "index": 10270,
+      "sha": "a084ca21e91035f8c73f834c7986d627d173a5954ff12c0af67504bd9caf18d6",
+      "name": "DystoPhunk #10270",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Brain With Flies"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Meta Vr"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0xda2a6389493bf5da55a338df2fb1c3b9d6b79a737094e32a0e499319fd9d3c9b",
+      "index": 10271,
+      "sha": "bcd7eb962a1165c3258422615686967a20ff44813b76f92770d1627e08af1a38",
+      "name": "DystoPhunk #10271",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Thin Mohawk Green"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gas Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xed531bbb9299b5df4880f3a10ce03f9b9d4dec28eb81f5d847007c2b7675a3d2",
+      "index": 10272,
+      "sha": "0156479204aee6ff4f3c2de398c0fba872fffda0db92cfa7fbb3eb9b1cca2b72",
+      "name": "DystoPhunk #10272",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Robot"
+        }
+      ]
+    },
+    {
+      "id": "0x7aeda3e84c5798adc2ff28e4f83c68477067ced9833e5e0b97dd2f86bbf0dd63",
+      "index": 10273,
+      "sha": "0978e748c1ea7f1821189735ffcbee4041fc4527751d9c01b40342c39efe3aa8",
+      "name": "DystoPhunk #10273",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x7abaa6e344d466f13ea8363219fd4c5079f8b2f0a49cee1a0e129d5e46326cd8",
+      "index": 10274,
+      "sha": "45517c7b55568c88c4cd4d2411d877958361119b8bc0a3674617a6f2f1641ad4",
+      "name": "DystoPhunk #10274",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyclops Visor"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Neon Green Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x34d63c3a4e2e99fa1ea154852d16b8b4476bc7743b0346b13b86a5c35461af2e",
+      "index": 10275,
+      "sha": "fac3c596bb493809d0b004168bfbf96f51fb0b8850010ac7564cdd3d4849c5d2",
+      "name": "DystoPhunk #10275",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Vr Headset"
+        }
+      ]
+    },
+    {
+      "id": "0x0615da0f42f172ae909324c82c9fe757ef6338c18940b611e39dc679b2a0a931",
+      "index": 10276,
+      "sha": "6e67f6b7bfabad7ae46d898307bc51db0e6f21f32a6b149d7d9f372b8c5832b0",
+      "name": "DystoPhunk #10276",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Police Cap"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Vr Goggles"
+        }
+      ]
+    },
+    {
+      "id": "0x472bb9154a2a798734cbd055a530efb73939fa45d97cc4ef6fe6d9ebb18a2b4f",
+      "index": 10277,
+      "sha": "151f03439053198b4fee8ca40db95252a65c19c74a23dda92df30679779cfc26",
+      "name": "DystoPhunk #10277",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Brain Tube"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Clown Hair White"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Point Glasses"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "White Mustache"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Green Cover"
+        }
+      ]
+    },
+    {
+      "id": "0x1d7cf470fb3e7f03f14c93202fbffb563a0593e290e95202ed4c3536067b4bb7",
+      "index": 10278,
+      "sha": "78edf18a36f64ab9610e7da4493b31a772754f03cd0308f1988389861f692e33",
+      "name": "DystoPhunk #10278",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Undercut"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Matrix"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Black Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x034b5b2e26f0f274cd8ee5348789f5eba2d6f5a08974b94d6dd43dccaa8c3968",
+      "index": 10279,
+      "sha": "49e2fd4303749bbccffd7de3992031a2aab8d530e29061c5a0e3e7be04cdd8e3",
+      "name": "DystoPhunk #10279",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Green Helmet"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wider Gaze"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Green Alighment Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x9c007698a1920fa7bae27ca661d226f80e39c6a77e4b4a0a83b1d0849f83d87c",
+      "index": 10280,
+      "sha": "9a0fd58f5bddc972e912b499ba1d8b4d31ace5c727c0ce436b15044e550cb6a2",
+      "name": "DystoPhunk #10280",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Flat Top Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Sight"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Black Cover"
+        }
+      ]
+    },
+    {
+      "id": "0x6a4726403fee01c22fd94c6045eecc15a1fd1e57ee115bdd05f1db6d4dbf8c0d",
+      "index": 10281,
+      "sha": "37437b8707536e3aaa71e6f008e11fec439a4fd511a97be05f13e3dac0618e91",
+      "name": "DystoPhunk #10281",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Thin Mohawk Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Void Goggles"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Undead Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x43071bb32856c15dedf31020362789d8b294378709058ff9eb0b184abcc21211",
+      "index": 10282,
+      "sha": "1098501dcec229ce196dabdd6eddb877de4aa7515dbd0b3ed780d807012f7ad2",
+      "name": "DystoPhunk #10282",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Infinity Shades Helmet"
+        }
+      ]
+    },
+    {
+      "id": "0xc8b4ce5f1499b8f9bfa0c84a4be8f70a4738c70925b4f581394b89d5137bc176",
+      "index": 10283,
+      "sha": "d3f3e5cc4befdd20747eca8c2d2ac89b130680dd986b44d687f76c40074c569f",
+      "name": "DystoPhunk #10283",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Invisible Helmet"
+        }
+      ]
+    },
+    {
+      "id": "0x2ded908eaf43edff920cebfec17cc14e4d66f4c14ad9fd0d3ff7483a2d745626",
+      "index": 10284,
+      "sha": "65a499d09ede9ea4d076cd1e0faa1118a1bda5acb527adf9b3e557516c14cda4",
+      "name": "DystoPhunk #10284",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Peak Spike"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Swamp Sight"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Outlaw Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xd12487e95a2f1b80fa53f09a94d5b1a866f659a25d5df845616d92b5976abe45",
+      "index": 10285,
+      "sha": "ad41f2fc8d7aac69710d4338af5f9a758afc915f2b94551bb1b500a8fec162b9",
+      "name": "DystoPhunk #10285",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bionic Eye Patch"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xa1669b99db7f8f423a9b0ff84501f86783ad5b96f4eb4f18b5d4f8291c431aa8",
+      "index": 10286,
+      "sha": "4ef45bb83f2e5920cd7d7c2f503af8b860b77adf3df3e24008a05fff001865f3",
+      "name": "DystoPhunk #10286",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Gaze"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Eclipse Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x9b99836cb4fd4558d1112b53f10b80feb2a6e49eaf2efbd3bd58bc62186f14ad",
+      "index": 10287,
+      "sha": "e8d13ad9edf3e91170f261c671ec921ea2f9061323cb70b65821c795ef170c96",
+      "name": "DystoPhunk #10287",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Pompadour"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gas Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xa1d1beb1c0d69692537dce4bfd5579a85c02742b6a93bae8f1279cc9e634cc47",
+      "index": 10288,
+      "sha": "08b55e6c3fb0a7ebf108fc5fce285a2554dc8cc2ef4d8115aa1c213fcde522cc",
+      "name": "DystoPhunk #10288",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Black Hair"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Futuristic Shades"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Holo Black Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x6f03cac6b1929d0b9b95cae50ef519d3e6d6208b63e4a480e0aa0be2e1007a8e",
+      "index": 10289,
+      "sha": "6f07a52b37163bf249e5c2d81ea323241ebd9dd51fb6ab497505cec7f435d566",
+      "name": "DystoPhunk #10289",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cyber Brain"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Vr Headset"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0x84c6cca1cd54bd3cd90f96ef329e7a91bb537a1209cdc55284fefa5f19f3d24c",
+      "index": 10290,
+      "sha": "e6c07fbc667819a123504a6bc891c78cab28030da74e8739050bf21835c6678f",
+      "name": "DystoPhunk #10290",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cap"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Specter Shield Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0x189d6cace544a51fb24fefef080b5fb5990c47bb006beefc7e253e3e2b270b89",
+      "index": 10291,
+      "sha": "1032496b767434349bef24206eadecdfc2f31cc8edbb3b223b0a0562a760da48",
+      "name": "DystoPhunk #10291",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Outlaw Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xffda54418c9848392be6cd9da369914bc17bd053949f1d5ba0e18a8051557be5",
+      "index": 10292,
+      "sha": "259b3f48b71e071d485fc22a799ec8f777ff39612b7ffcf9f184f1c3c025515c",
+      "name": "DystoPhunk #10292",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Peak Spike"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3d Glasses"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Void Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x476f0c93ec52c4bacfb147974a48ed96e7e964fce46520bef7ed6326cba2cadf",
+      "index": 10293,
+      "sha": "d83252dec15c30409cfcf6372129f60b4c551e49adaed950abde367cf10a26cf",
+      "name": "DystoPhunk #10293",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Green Helmet"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyclops Visor"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Metal Green Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x56902dad5d6302ef90c9d3c7cf8aef7160c826530950ad053f07050ed00e5e2d",
+      "index": 10294,
+      "sha": "fbd3d810acd3503cc46b90da294258ea748fccd5278b77b7d6c83203b8ea14c5",
+      "name": "DystoPhunk #10294",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Mohawk"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Wider Shades"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Face Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x8c67c4e3721efe2e23efe57623aef3facc448e96a40853e2b80b560c57f0d4a8",
+      "index": 10295,
+      "sha": "d08f37a3378ec352cd268c8e0beffcf7cae87f69520490640f9e228e182f81d2",
+      "name": "DystoPhunk #10295",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Crazy Hair"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Eclipse Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x0c9817156092f449c57db068ee04fe5f1302b92d33482a1764ff3b5d1a8ad094",
+      "index": 10296,
+      "sha": "e130f6fda8143a2d6ded810c3f3f0786205d2f430448d78ade4d323175403935",
+      "name": "DystoPhunk #10296",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Thin Mohawk Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Futuristic AR"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Neon Green Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x5a4f709bff23e59f0a4862a669ea9eede373b94314c9b7a915939194b84390a0",
+      "index": 10297,
+      "sha": "f1d9b01bde741162154dac93f0f2e1682001d280115079154e75ff74e5a17a46",
+      "name": "DystoPhunk #10297",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Diamond Helmet"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "AR Shades"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vortex Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xe08effaf3556b2f511246340c84cdf1e0947f896991d51e85ebd1b04d74b1e63",
+      "index": 10298,
+      "sha": "0b6a132185c62d22c7934018e7fef027e7fa8521f997a3398feea9f98dd8104e",
+      "name": "DystoPhunk #10298",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Short Black"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Philip"
+        }
+      ]
+    },
+    {
+      "id": "0x7598ec4dd273fe2620c2b3be7d1a7313554deaca71432dc9a6634e9b19f130da",
+      "index": 10299,
+      "sha": "172b9abe01b9922ee971af578cb3d02be5a466408bfdf5f8d29ec8ad050ebbac",
+      "name": "DystoPhunk #10299",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Sex",
+          "value": "Robot"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cap Forward"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Vr Goggles Flip"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Green Cover"
+        },
+        {
+          "trait_type": "Type",
+          "value": "PhunkBotV2"
+        }
+      ]
+    },
+    {
+      "id": "0x0506caeaaf6f62ea752f579e640f4ae5a8891e0ff20358ad6e82ad709ca04ee3",
+      "index": 10300,
+      "sha": "a36d41118cbe69c3981003f65bce778e7f2f5a5e0d655e168d9351aa686c2b01",
+      "name": "DystoPhunk #10300",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyber Residents"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0x91a2a43c4fb55a3919c42fab28011215e5031169b4502b6d82f6af840dc84441",
+      "index": 10301,
+      "sha": "e2f2fce5bbd4314d39b9607c18f51657a242fc36c4d713dbee5a15f39dfdf7a5",
+      "name": "DystoPhunk #10301",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Pink Rose Hair"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyclops Visor"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0x6621756817bc3419f1a00daabffa728ec161557d911340dafce9e30da8f0ff08",
+      "index": 10302,
+      "sha": "5b6724d590306261c15c35df3ee5442e4415d74576aa382030e81a9d51bf1722",
+      "name": "DystoPhunk #10302",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Exotic Black"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Tiara"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0x097eacb6f8685ad2a90721b035d2c1ef08226f7b02affbcb3ed300ede9e4639e",
+      "index": 10303,
+      "sha": "267954332833ac91df320f79eefd32a1f1c04ea0553bcb33883ba1c48aa2ce54",
+      "name": "DystoPhunk #10303",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Purple Line"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "AR Shades"
+        }
+      ]
+    },
+    {
+      "id": "0x15eecb7051b5e371ca3adbdfe33b109b9e27efeffa084ec7554f5cedc5c7d20c",
+      "index": 10304,
+      "sha": "7b337a47c868fc9f232a873be7e5fae19860a6940bdd863ff03c66e1c420137b",
+      "name": "DystoPhunk #10304",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Straight White"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Tiara"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        }
+      ]
+    },
+    {
+      "id": "0x4f41d6603ce5ee092d54e6e07eb917de81e46f03762127a9f4405b74aebb01e0",
+      "index": 10305,
+      "sha": "84c812570de3dfc24453609d5478c667d1ae3ce0e80957334efeb0bce2889c10",
+      "name": "DystoPhunk #10305",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Pigtails White"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Tiara"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0x70a9b1f88c9a42e59470f17fe9bdabaf03bfe6cd9d4965c083cd0bfb4daf1ff5",
+      "index": 10306,
+      "sha": "2d4d8ef9aa90a57dbd42bf79eadd877a75e0361cacca5b2caf00eddc65a0969c",
+      "name": "DystoPhunk #10306",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Welding Googles"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild Black"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Gas Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0x8094b0bd726e5c0b50607b36f0a0f7daea7c44c8c5e0ec8228760c670142c85b",
+      "index": 10307,
+      "sha": "eb039eec9e53d0b2c17c35d359b1ffae5424e8052aec6e92e3014cecb4e94da4",
+      "name": "DystoPhunk #10307",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Mohawk Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Gaze"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Neon Green Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0x46c01d736e6881a5865959488ea7cd574a6c111e2ffb41fdec16efec9a6b6439",
+      "index": 10308,
+      "sha": "fa48392a7b879854894785f82a61bd7e25414a6d6d67c993905744f69814fda9",
+      "name": "DystoPhunk #10308",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Afro Hair"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Neon Gaze"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Void Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0x721ae7de0cdc4c90de4f837cf290677e0f569c9deaf963b891ddbf3c07f15c31",
+      "index": 10309,
+      "sha": "7e36c0c8ac2b1256926434214623218692c4e54a824e33cc87f5abc4d5e791c3",
+      "name": "DystoPhunk #10309",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Green Side"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Meta Vr"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        }
+      ]
+    },
+    {
+      "id": "0xd056e085a95d743177b1b52fffa727512fef6b9d4e94dae2c3ede76eacfc336e",
+      "index": 10310,
+      "sha": "92518b93de3a2dee6f2a3b5502e55c3e9e30e07bd83bb690a4188d0201f06e9c",
+      "name": "DystoPhunk #10310",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Straight Black Hair"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Metal Green Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x918ee4631433a5c25dfa35e6c119ade592fd052a942ec85f72bb6ba1b1c0e9ea",
+      "index": 10311,
+      "sha": "aa27142536e4e4f755ae06acfec344b1275695bb61fb92b7fca10e3373117223",
+      "name": "DystoPhunk #10311",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Purple Bob"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Green Scouter"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Holo Black Mask"
+        }
+      ]
+    },
+    {
+      "id": "0x820daea5a0aa206dbda20085a58083a570c388e8657bb2334bc12c017f8915b9",
+      "index": 10312,
+      "sha": "a80023bf59ad9c3f3d3fc51f0e6e64177fcd554468e570a6e80cc5b73a541678",
+      "name": "DystoPhunk #10312",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Green Side"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Bionic Eye Patch"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Face Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0x473dc0777fbb0ad942642bd32d9cba09b684a55f289ec13cbf39bd2bc9eff2bf",
+      "index": 10313,
+      "sha": "8d26430d062810d7c2a2b4d01d899f8b0592eccf24edc19c4268bb0500e99461",
+      "name": "DystoPhunk #10313",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Shadow Hoodie"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0xc9f0da7bccf6e252cd16ad4ac71e27c60939fd4ab759393e0f7e77120205a7c6",
+      "index": 10314,
+      "sha": "f5b461958a96cd78eff14ea4e2ca50df70874cdea5def9c6b5b6c2070eebaa5a",
+      "name": "DystoPhunk #10314",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Metal Green Mask"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0x2d03845b609ac7bd51b4f888941a0622bd659b862da29c4a0203731522677765",
+      "index": 10315,
+      "sha": "0c47d4db5d49aede59f00412e285fd9f2b12b4f6500acbf84c97dd04a97dca50",
+      "name": "DystoPhunk #10315",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Black Shaved"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Cyber Eye"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    },
+    {
+      "id": "0xa452a16243218ffa571a769900aa6b7d82491caf1547a97f11b48b3d065cfa72",
+      "index": 10316,
+      "sha": "3c76f8f4e6dbaab7ca5f0479b65f2ec8e9100e7ad03463c0d9fdf39241acd079",
+      "name": "DystoPhunk #10316",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Messy Green"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Specter Shield Mask"
+        }
+      ]
+    },
+    {
+      "id": "0xbc7936d927e379d8a833e88e93a8dc65aba63ec26eda99316187b3b5c9d96f86",
+      "index": 10317,
+      "sha": "ddd884811caff6ed3cddee19759724fe272355ae6736eb1c50dd0bba645a0497",
+      "name": "DystoPhunk #10317",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild White"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Black Vr"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
+        }
+      ]
+    },
+    {
+      "id": "0x58574b96c9a541a5e9fad7b14d6acca4645078403a041e3369053cfe30e27dd0",
+      "index": 10318,
+      "sha": "213cfb864ddfc649f4026aa46e7d8e2373c8976497f4219d32fa091a593c4619",
+      "name": "DystoPhunk #10318",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Black Shaved"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"
+        }
+      ]
+    },
+    {
+      "id": "0xb34b8771d19077b4c304e6ec699807fa8a53eee504f7801089845f7e3a3348ea",
+      "index": 10319,
+      "sha": "564468e7ec84eebfd223dd94676d1e044f642b2c164a2979e3877280b2579880",
+      "name": "DystoPhunk #10319",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyber Residents"
+        },
+        {
+          "trait_type": "Type",
+          "value": "Cyborg"
+        }
+      ]
+    }
+  ]
+}
