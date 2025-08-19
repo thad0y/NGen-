@@ -1,9 +1,9 @@
 {
-  "name": "NGenPhunks",
+  "name": "NGen Phunks",
   "logo_image": "",
   "banner_image": null,
   "total_supply": 100,
-  "slug": "NON GEN Phunks",
+  "slug": "NGen Phunk",
   "description": "Ethscription-crafted digital artifacts",
   "website_url": "",
   "twitter_url": "",
@@ -108,20 +108,45 @@
       ]
     },
     {
-      "id": "0x1bdc861276bfe1f0909216c1e40899dc0280940ac7018d6e64e7061060355029",
-      "index": 10252,
-      "sha": "d79150239fbfe0da054df90862919f1f79a8db3ef62f2545445e6006d37391d2",
-      "name": "DystoPhunk #10252",
+      "id": "",
+      "index": 10321,
+      "sha": "",
+      "name": "NGen Phunk #10321",
       "description": "",
       "attributes": [
         {
           "trait_type": "Sex",
-          "value": "Alien"
+          "value": "Female"
         },
         {
           "trait_type": "Hair",
-          "value": "Hoodie"
+          "value": "Straight Hair Blond"
         },
+        {
+          "trait_type": "Hair",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Wild White Hair"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Orange Side"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Orange Side"
+        },
+
+
+
+
+
+
+
+
+
         {
           "trait_type": "Eyes",
           "value": "Cyber Eye"
