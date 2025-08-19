@@ -1,13 +1,13 @@
 {
   "name": "NGenPhunks",
-  "logo_image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAFBlWElmTU0AKgAAAAgAAgESAAMAAAABAAEAAIdpAAQAAAABAAAAJgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAADw6FuzAAABCklEQVRIDe2Ruw0CMRAFuQKogDYohQagBpCIiSmBHggghAgiOoBmDo2lQSvrdGAfAQGWVuvvm33r0eg/fr4D40nTUiQ5j68Un4vOF8uW2B+uKVdDcmHXCF/aJoUQzqpAisacOwDieTHEh+Tto01CsT04Yc15tfh6eksCAJiTDcRXx/swB4gqbBZAFlDsgAdYX51Pr1A47gmwnUUgHlE1vY7Vd+0BooCi/xAQxXXRtVckbosU7Mu2qao9VNpVbQQCKIZgN4q8m1cBrBxYVwjVZdEfcFmAQn1ZB1WQPlAUZu764w+PTmyFTlxzZ7bZpaiGIBJDiBUPAuR2AQnARXQAqMpFhERA7iA64d4TQxNT1m+BU1sAAAAASUVORK5CYII=",
+  "logo_image": "",
   "banner_image": null,
   "total_supply": 100,
-  "slug": "N Gen Phunks",
+  "slug": "NON GEN Phunks",
   "description": "Ethscription-crafted digital artifacts",
-  "website_url": "https://etherphunks.eth.limo/dysto-phunks",
-  "twitter_url": "https://x.com/DystoLabz",
-  "discord_url": "https://discord.gg/dmDhXxj4bk",
+  "website_url": "",
+  "twitter_url": "",
+  "discord_url": "",
   "background_color": "#C3FF00",
   "collection_items": [
     {
@@ -19,16 +19,92 @@
       "attributes": [
         {
           "trait_type": "Sex",
-          "value": ""
+          "value": "Male"
         },
         {
           "trait_type": "Hair",
-          "value": "Cyber Brain"
+          "value": "Crazy Hair"
         },
         {
-          "trait_type": "Type",
-          "value": "Cyborg"
-        }
+           "trait_type": "Hair",
+          "value": "Cap"        
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Do-Rag"
+        },
+        {
+           "trait_type": "Hair",
+          "value": "Purple Hair"        
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Clown Hair Green"
+        },
+        {
+           "trait_type": "Hair",
+          "value": "Beanie"        
+        },
+        {
+         "trait_type": "Eyes",
+          "value": "Nerd Glasses"
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Classic Shades"       
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "Vr"       
+        },
+        {
+          "trait_type": "Eyes",
+          "value": "3d Glasses"       
+        },
+        {
+          "trait_type": "Ears",
+          "value": "Earring"       
+        },   
+        {
+          "trait_type": "Nose",
+          "value": "Clown Nose"       
+        }, 
+        {
+          "trait_type": "Beard",
+          "value": "Shadow Beard"       
+        }, 
+        {
+          "trait_type": "Beard",
+          "value": "Goat"       
+        }, 
+        {
+          "trait_type": "Beard",
+          "value": "Mustache"       
+        }, 
+        {
+          "trait_type": "Beard",
+          "value": "Handlebars"       
+        }, 
+        {
+          "trait_type": "Face",
+          "value": "Spots"       
+        }, 
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"       
+        }, 
+        {
+          "trait_type": "Mouth",
+          "value": "Cigarette"       
+        }, 
+        {
+          "trait_type": "Mouth",
+          "value": "Vape"       
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Pipe"       
+        },
       ]
     },
     {
@@ -53,7 +129,21 @@
         {
           "trait_type": "Mouth",
           "value": "Shadow Synth Mask"
-        }
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Shadow Synth Mask"
+        },
+
+
+
+
+
+
+
+
+
+      }
       ]
     },
     {
