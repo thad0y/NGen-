@@ -286,10 +286,10 @@
       ]
     },
     {
-      "id": "0x0596074cc07975d4bdd6d6ea9e4558db95b69e628ec410329c6fafdac7432ba4",
-      "index": 10259,
-      "sha": "27930c32919374152d21f95aaac8d07962dae0d4e15c3f9ad3f43cbe2cc05da2",
-      "name": "DystoPhunk #10259",
+      "id": "",
+      "index": 10328,
+      "sha": "",
+      "name": "NGen Phunk #10328",
       "description": "",
       "attributes": [
         {
@@ -298,15 +298,11 @@
         },
         {
           "trait_type": "Hair",
-          "value": "Cap"
+          "value": "Cap Forward"
         },
         {
           "trait_type": "Eyes",
-          "value": "Wide Shades"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Vape"
+          "value": "Vr"
         }
       ]
     },
