@@ -136,180 +136,152 @@
         },
         {
           "trait_type": "Hair",
-          "value": "Orange Side"
-        },
-
-
-
-
-
-
-
-
-
-        {
-          "trait_type": "Eyes",
-          "value": "Cyber Eye"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Shadow Synth Mask"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Shadow Synth Mask"
-        },
-
-
-
-
-
-
-
-
-
-      }
-      ]
-    },
-    {
-      "id": "0x0f49b6e478e031b6f1fb03374dcc5dcd682b14524cc0ffe30c4119f599cf0d1c",
-      "index": 10253,
-      "sha": "59954c879a76b319fc9a0db585099e865f6aeee98208c314e3a92a01f3248802",
-      "name": "DystoPhunk #10253",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Alien"
-        },
-        {
-          "trait_type": "Hair",
-          "value": "Mohawk Green"
+          "value": "Tiara"
         },
         {
           "trait_type": "Eyes",
-          "value": "Cyber Eye"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Gas Mask"
-        }
-      ]
-    },
-    {
-      "id": "0xcb5f7a8fd91d524cc5997d6ba15746aeffe1116b0e062a5894a739046d993893",
-      "index": 10254,
-      "sha": "cbed9085aeb48bcb3c9853af439088da4acf8c01cc7c7bace55a374c16e57583",
-      "name": "DystoPhunk #10254",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Alien"
-        },
-        {
-          "trait_type": "Hair",
-          "value": "Short Mohawk"
+          "value": "3d Glasses"       
         },
         {
           "trait_type": "Eyes",
-          "value": "Green Scouter"
+          "value": "Vr"       
+        }, 
+        {
+          "trait_type": "Ears",
+          "value": "Earring"       
         },
         {
-          "trait_type": "Mouth",
-          "value": "Metal Green Mask"
-        }
-      ]
-    },
-    {
-      "id": "0xcbb576508e0b042d29a75bf1537a8b0db98c1b4165372f6bf58d18ae5dfa1738",
-      "index": 10255,
-      "sha": "de4bbfcf6e43c82cf8148b9ae40551e2b194d9d15c7d9866e6000a7d39d046a2",
-      "name": "DystoPhunk #10255",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Alien"
+          "trait_type": "Emotion",
+          "value": "Smile"
         },
         {
-          "trait_type": "Hair",
-          "value": "Thin Mohawk Green"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Holo Lens"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Vape"
+          "trait_type": "Face",
+          "value": "Buck Teeth"
         },
         {
           "trait_type": "Neck",
-          "value": "Gold Chain"
+          "value": "Choker"
         }
       ]
     },
-    {
-      "id": "0xd8f8d30696362e8f5047cb16d4d72f740ac1091b338f3bb74971c97e43bcfcae",
-      "index": 10256,
-      "sha": "5a435445c49f10b15ad9dcbcc2bef773a20e1e14f42fac83832c448d499b3a04",
-      "name": "DystoPhunk #10256",
+    {      "id": "",
+      "index": 10322,
+      "sha": "",
+      "name": "NGen Phunk #10322",
       "description": "",
       "attributes": [
         {
           "trait_type": "Sex",
-          "value": "Ape"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Bionic Eye Patch"
-        },
-        {
-          "trait_type": "Type",
-          "value": "Cyborg"
-        }
-      ]
-    },
-    {
-      "id": "0x2e72ae240a2b73247dab4d624a0d492baec62aa8fb59624c3b59bbc7cdf7051b",
-      "index": 10257,
-      "sha": "7cce34033734824757d95f9a698d3f4e4145188b5791f101b1676ddd6086977f",
-      "name": "DystoPhunk #10257",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Ape"
+          "value": "Bot"
         },
         {
           "trait_type": "Hair",
-          "value": "Shadow Hoodie"
+          "value": "Pompadour Hair"
         },
         {
-          "trait_type": "Neck",
-          "value": "Gold Chain"
+          "trait_type": "Beard",
+          "value": "Mustache"      
         }
       ]
     },
     {
-      "id": "0xbcdb8ae0804a62025c30a7b56da30b448900f4e3e7930540ba8785e615ebe3f6",
-      "index": 10258,
-      "sha": "3c995ea0d164f898daabd8c4b70c986c18f7193848036c3b1b461b29dc3d4ae2",
-      "name": "DystoPhunk #10258",
+      "id": "",
+      "index": 10323,
+      "sha": "",
+      "name": "NGen Phunk #10323",
       "description": "",
       "attributes": [
         {
           "trait_type": "Sex",
-          "value": "Ape"
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Pompadour Hair"
+        },
+        {
+          "trait_type": "Beard",
+          "value": "Mustache"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 10324,
+      "sha": "",
+      "name": "NGen Phunk #10324",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Emotion",
+          "value": "Smile"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 10325,
+      "sha": "",
+      "name": "DystoPhunk #10325",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Emotion",
+          "value": "Smile"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 10326,
+      "sha": "",
+      "name": "NGen Phunk #10326",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Alien"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Cowboy Hat"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Welding Goggles"
+        },
+        {
+          "trait_type": "Lips",
+          "value": "Purple Lipstick"        
+        }
+      ]
+    },
+    {
+      "id": "",
+      "index": 10327,
+      "sha": "",
+      "name": "NGen Phunk #10327",
+      "description": "",
+      "attributes": [
+       {
+          "trait_type": "Sex",
+          "value": "Alien"
         },
         {
           "trait_type": "Hair",
           "value": "Hoodie"
         },
         {
-          "trait_type": "Eyes",
-          "value": "Cyclops Visor"
+          "trait_type": "Lips",
+          "value": "Black Lipstick" 
         }
       ]
     },
