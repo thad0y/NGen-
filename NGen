@@ -319,11 +319,7 @@
         },
         {
           "trait_type": "Eyes",
-          "value": "Neon Gaze"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Shadow Synth Mask"
+          "value": "Eye Mask"            
         }
       ]
     },
@@ -340,15 +336,19 @@
         },
         {
           "trait_type": "Hair",
-          "value": "Bandana"
+          "value": "Hoodie"
         },
         {
-          "trait_type": "Eyes",
-          "value": "Cyber Eye"
+          "trait_type": "Hair",
+          "value": "Tiara"
         },
         {
-          "trait_type": "Mouth",
-          "value": "Vortex Mask"
+          "trait_type": "Neck",
+          "value": "Choker"
+        },
+        {
+          "trait_type": "Neck",
+          "value": "Gold Chain"
         }
       ]
     },
@@ -365,78 +365,86 @@
         },
         {
           "trait_type": "Hair",
-          "value": "Knitted Cap"
+          "value": "Cowboy Hat"
         },
         {
-          "trait_type": "Mouth",
-          "value": "Gas Mask"
+          "trait_type": "Eyes",
+          "value": "Eye Patch"
         }
       ]
     },
     {
       "id": " ",
-      "index": 10263,
-      "sha": "1da26b91001fa176de48f3c26b11342d2467692ed6577e00413f6b46f8f3223b",
-      "name": "DystoPhunk #10263",
+      "index": 10332,
+      "sha": " ",
+      "name": "NGen Phunk #10332",
       "description": "",
       "attributes": [
         {
           "trait_type": "Sex",
-          "value": "Zombie"
-        },
-        {
-          "trait_type": "Hair",
-          "value": "Brain With Flies"
-        },
-        {
-          "trait_type": "Type",
-          "value": "Cyborg"
-        }
-      ]
-    },
-    {
-      "id": "0x0abf1f3eb026ef6044a068331c539c5176fdbca1610404585f8d87562e303b7a",
-      "index": 10264,
-      "sha": "b442411324c5d95c9afc1efd39c4f37bca26e47188b519afc6497a6f12722814",
-      "name": "DystoPhunk #10264",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Zombie"
-        },
-        {
-          "trait_type": "Hair",
-          "value": "Brain With Flies"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Cyclops Visor"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Void Mask"
-        }
-      ]
-    },
-    {
-      "id": "0x75491652752c842b5877f168628681becb2072e9476dbc8416b1a9f7d7f0864b",
-      "index": 10265,
-      "sha": "42dbc673006b068568df6ea9282b6e033215c8304f33d7cc04930d22a36ff169",
-      "name": "DystoPhunk #10265",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Zombie"
+          "value": "Ape"
         },
         {
           "trait_type": "Hair",
           "value": "Hoodie"
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10333,
+      "sha": " ",
+      "name": "NGen Phunk #10333",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
         },
         {
-          "trait_type": "Eyes",
-          "value": "Bionic Eye Patch"
+          "trait_type": "Hair",
+          "value": "Brain"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Buck Teeth"
+        },
+        {
+          "trait_type": "Beard",
+          "value": "Handlebars"
+        },
+        {
+          "trait_type": "Beard",
+          "value": "Goat"
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10334,
+      "sha": " ",
+      "name": "NGen Phunk #10334",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Crown"
+        },
+        {
+          "trait_type": "Beard",
+          "value": "Handlebars"
+        },
+        {
+          "trait_type": "Beard",
+          "value": "Goat"
+        },
+        {
+          "trait_type": "Mouth",
+          "value": "Big Smoke"
         }
       ]
     },
