@@ -449,10 +449,10 @@
       ]
     },
     {
-      "id": "0x360d93367f8b79c616d6958f90dcea045d058bee665f76957c8e45035ff1724a",
-      "index": 10266,
-      "sha": "dfcbbe4798c7db9ce4b6de76ab8b179a9151c0b3615707bd3bac237a7341535e",
-      "name": "DystoPhunk #10266",
+      "id": " ",
+      "index": 10335,
+      "sha": " ",
+      "name": "NGen Phunk #10335",
       "description": "",
       "attributes": [
         {
@@ -461,23 +461,40 @@
         },
         {
           "trait_type": "Hair",
-          "value": "Crazy Hair"
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Pink With Hat"      
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10336,
+      "sha": " ",
+      "name": "NGen Phunks #10336",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Zombie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
         },
         {
           "trait_type": "Eyes",
-          "value": "Holo Lens"
-        },
-        {
-          "trait_type": "Neck",
-          "value": "Gold Chain"
+          "value": "Pink With Hat"             
         }
       ]
     },
     {
-      "id": "0x97905b1802228aba57f16a6db7c5d2f5348a5886134c6a914934fc3c6378f9c2",
-      "index": 10267,
-      "sha": "bc51973949865e0f2b5d2100cbbfa2dad62593af6160837c01861cfde559e67b",
-      "name": "DystoPhunk #10267",
+      "id": " ",
+      "index": 10337,
+      "sha": " ",
+      "name": "NGen Phunk #10337",
       "description": "",
       "attributes": [
         {
@@ -486,153 +503,112 @@
         },
         {
           "trait_type": "Hair",
-          "value": "Mohawk Green"
+          "value": "Cowboy Hat"
         },
         {
           "trait_type": "Eyes",
-          "value": "Hyper Zoom Vr"
-        },
-        {
-          "trait_type": "Ears",
-          "value": "Earring"
+          "value": "Big Shades"
         },
         {
           "trait_type": "Mouth",
-          "value": "Vape"
-        },
-        {
-          "trait_type": "Neck",
-          "value": "Gold Chain"
+          "value": "Hot Lipstick"
         }
       ]
     },
     {
-      "id": "0x5121612d3d18f6daf822b97243122d9dfb90b86d14ea8a62ee49ef1183b76ed8",
-      "index": 10268,
-      "sha": "2ba29f0c355ffe947945885ad414b1d6d736f56d2f2e4033df3640d755663d9e",
-      "name": "DystoPhunk #10268",
+      "id": " ",
+      "index": 10338,
+      "sha": " ",
+      "name": "NGen Phunk #10338",
       "description": "",
       "attributes": [
         {
           "trait_type": "Sex",
-          "value": "Zombie"
+          "value": "Male"
         },
         {
           "trait_type": "Hair",
-          "value": "Peak Spike"
+          "value": "Hoodie"
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10339,
+      "sha": " ",
+      "name": "NGen Phunk #10339",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10340,
+      "sha": " ",
+      "name": "NGen Phunk #10340",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Hoodie"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Stringy Hair"
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10341,
+      "sha": " ",
+      "name": "NGen Phunk #10341",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Female"
+        },
+        {
+          "trait_type": "Hair",
+          "value": "Straight"
+        }
+      ]
+    },
+    {
+      "id": " ",
+      "index": 10342,
+      "sha": " ",
+      "name": "NGen Phunk #10342",
+      "description": "",
+      "attributes": [
+        {
+          "trait_type": "Sex",
+          "value": "Male"
+        },
+        {
+          "trait_type": "Beard",
+          "value": "Luxurious Beard"
         },
         {
           "trait_type": "Eyes",
-          "value": "Green Scouter"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Vortex Mask"
-        }
-      ]
-    },
-    {
-      "id": "0xf2bd44d699b85e05526935f7e50d4c189692101ff32c59acf9389d4fc2d004d6",
-      "index": 10269,
-      "sha": "544472fd3b56264e3469fa523da719eb8f28c610209e8755e0fe9c986d5f5a9b",
-      "name": "DystoPhunk #10269",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Zombie"
+          "value": "Vr"
         },
         {
           "trait_type": "Hair",
-          "value": "Bandana"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Holo Black Mask"
-        }
-      ]
-    },
-    {
-      "id": "0x00d0c409e13a9f89bbb7b33572fa708803ac7501725d0ba43ca03b1a58dc35af",
-      "index": 10270,
-      "sha": "a084ca21e91035f8c73f834c7986d627d173a5954ff12c0af67504bd9caf18d6",
-      "name": "DystoPhunk #10270",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Zombie"
-        },
-        {
-          "trait_type": "Hair",
-          "value": "Brain With Flies"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Meta Vr"
-        },
-        {
-          "trait_type": "Neck",
-          "value": "Gold Chain"
-        }
-      ]
-    },
-    {
-      "id": "0xda2a6389493bf5da55a338df2fb1c3b9d6b79a737094e32a0e499319fd9d3c9b",
-      "index": 10271,
-      "sha": "bcd7eb962a1165c3258422615686967a20ff44813b76f92770d1627e08af1a38",
-      "name": "DystoPhunk #10271",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Zombie"
-        },
-        {
-          "trait_type": "Hair",
-          "value": "Thin Mohawk Green"
-        },
-        {
-          "trait_type": "Ears",
-          "value": "Earring"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Gas Mask"
-        }
-      ]
-    },
-    {
-      "id": "0xed531bbb9299b5df4880f3a10ce03f9b9d4dec28eb81f5d847007c2b7675a3d2",
-      "index": 10272,
-      "sha": "0156479204aee6ff4f3c2de398c0fba872fffda0db92cfa7fbb3eb9b1cca2b72",
-      "name": "DystoPhunk #10272",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Robot"
-        }
-      ]
-    },
-    {
-      "id": "0x7aeda3e84c5798adc2ff28e4f83c68477067ced9833e5e0b97dd2f86bbf0dd63",
-      "index": 10273,
-      "sha": "0978e748c1ea7f1821189735ffcbee4041fc4527751d9c01b40342c39efe3aa8",
-      "name": "DystoPhunk #10273",
-      "description": "",
-      "attributes": [
-        {
-          "trait_type": "Sex",
-          "value": "Robot"
-        },
-        {
-          "trait_type": "Eyes",
-          "value": "Green Scouter"
-        },
-        {
-          "trait_type": "Mouth",
-          "value": "Shadow Synth Mask"
+          "value": "Stringy Hair"
         }
       ]
     },
